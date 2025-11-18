@@ -1,1 +1,2 @@
 # Goofy
+Goofy is a cartoon character created by the Walt Disney Company. He is a tall, anthropomorphic dog who typically wears a turtle neck and vest, with pants, shoes, white gloves, and a tall hat originally designed as a rumpled fedora. Goofy is a close friend of Mickey Mouse and Donald Duck, and is Max Goof's father. He is normally characterized as hopelessly clumsy and dim-witted, yet this interpretation is not always definitive; occasionally, Goofy is shown as intuitive and clever, albeit in his own unique, eccentric way.
