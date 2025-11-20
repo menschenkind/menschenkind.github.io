@@ -12,3 +12,6 @@ Goofy is a cartoon character created by the Walt Disney Company. He is a tall, a
 * Mix of silliness and cleverness  
 * Often a humorous figure in cartoons  
 * Symbol of lovable naivety
+
+## A Quote
+> Gawrsh, I guess I'm just a simple fellow.
