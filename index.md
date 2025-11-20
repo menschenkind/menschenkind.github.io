@@ -16,5 +16,5 @@ Goofy is a cartoon character created by the Walt Disney Company. He is a tall, a
 ## A Quote
 > Gawrsh, I guess I'm just a simple fellow.
 
-<img src=https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png>
+<img src="https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png"/>
 By Disney - <a rel="nofollow" class="external free" href="https://www.donaldduck.nl/duckipedia/g/goofy/">https://www.donaldduck.nl/duckipedia/g/goofy/</a> (this is the Dutch website for <a href="//en.wikipedia.org/wiki/Donald_Duck_Weekblad" title="Donald Duck Weekblad">Donald Duck Weekblad</a> and other Dutch publications, not a wiki), <a href="//en.wikipedia.org/wiki/File:Goofy_Duckipedia.png" title="Fair use of copyrighted material in the context of Goofy">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=66447810">Link</a>
